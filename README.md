@@ -26,3 +26,10 @@ Programmer est un jeu d'enfant, apprenons à nos enfants à programmer wink
 
 Tibo
 
+-------------------------------------------------------------------------------
+
+3 dossiers:
+Contribution: fichier nouveau en attente de validation
+Documents: annexe, manuel d'installation, notebook, etc
+TP: contient les TP ainsi que les prototypes
+
